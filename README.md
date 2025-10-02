@@ -62,7 +62,7 @@ Bu **Discord SelfBot**, sunucularınızı, sahiplerinizi ve medya yönetimini ko
 ## 📂 Kurulum
 1. Repository’i klonlayın:  
 
-   git clone https://github.com/Burak-16/nsfw-selfbot-v3.git
+   git clone https://github.com/Hasanrhyme/discord-self-image-cloner.git
    cd selfbot 
 
 2. Modülleri indirin:
@@ -81,4 +81,5 @@ Bu **Discord SelfBot**, sunucularınızı, sahiplerinizi ve medya yönetimini ko
  4. Projeyi çalıştırın:
 
  node main.js
+
 
