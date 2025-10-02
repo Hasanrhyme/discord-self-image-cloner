@@ -82,4 +82,3 @@ Bu **Discord SelfBot**, sunucularınızı, sahiplerinizi ve medya yönetimini ko
 
  node main.js
 
-
